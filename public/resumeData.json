@@ -1,0 +1,318 @@
+{
+  "main": {
+    "name": "Ranjith P. Rayaprolu",
+    "occupation": "Solutions Architect | Enterprise Transformation & Technology Leadership",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "Building enterprise cloud and AI systems that actually work at scale. For 17+ years, I've been turning ambitious technology visions into production reality—from multi-agent AI platforms processing 30M+ images monthly to data lakes powering billions in business decisions.\n\nAs a Senior Solutions Architect at AWS, I partner with enterprises on their most critical transformations. Whether it's reducing AI inference costs to <$10K/month, achieving 99.9% uptime at massive scale, or enabling 2K+ practitioners across global markets, I focus on outcomes that move business metrics.\n\nMy sweet spot: Generative AI architectures, cloud-native systems, and strategic initiatives where technology leadership meets measurable impact—$300M+ in influenced revenue and growing.",
+    "contactmessage": "Let's connect and explore how we can drive innovation together!",
+    "email": "rayaprolu.ranjith@gmail.com",
+    "phone": "+1 (847) 644-2864",
+    "address": {
+      "street": "",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ranjithrayaprolu/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rayaprolu-ranjith/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "resume",
+        "url": "/resume.pdf",
+        "className": "fa fa-download"
+      }
+    ],
+    "profiles": [],
+    "metrics": {
+      "experience": "17+",
+      "revenue": "$300M+",
+      "practitioners": "2K+",
+      "uptime": "99.9%"
+    }
+  },
+  "resume": {
+    "skillmessage": "Core Competencies",
+    "recognitions": [
+      {
+        "title": "EB-1A Visa",
+        "description": "Extraordinary Ability - US Permanent Residency",
+        "year": ""
+      },
+      {
+        "title": "IEEE Senior Member",
+        "description": "Institute of Electrical and Electronics Engineers",
+        "year": ""
+      },
+      {
+        "title": "BCS Fellow",
+        "description": "British Computer Society - Chartered Institute for IT",
+        "year": ""
+      },
+      {
+        "title": "AWS Featured Speaker",
+        "description": "AWS re:Inforce 2025 - Must-See Sessions",
+        "year": "2025"
+      },
+      {
+        "title": "AWS Featured Speaker",
+        "description": "AWS re:Invent 2024",
+        "year": "2024"
+      },
+      {
+        "title": "AWS Featured Speaker",
+        "description": "AWS re:Invent 2023",
+        "year": "2023"
+      },
+      {
+        "title": "Dean's Award",
+        "description": "Research project on identifying inefficient electricity flow in power grids",
+        "year": "2008"
+      }
+    ],
+    "education": [
+      {
+        "school": "Gies College of Business, University of Illinois Urbana-Champaign",
+        "degree": "Master of Business Administration",
+        "graduated": "2025",
+        "description": "Entrepreneurship and Strategic Innovation • Global Challenges in Business"
+      },
+      {
+        "school": "Jawaharlal Nehru Technological University, Hyderabad, India",
+        "degree": "Bachelor of Technology, Electrical and Electronics Engineering",
+        "graduated": "2008",
+        "description": "Founder of 'EECS' group • Member of IEEE student groups • Winner of Dean's award for research project on 'Identify inefficient electricity flow in a power grid'"
+      }
+    ],
+    "work": [
+      {
+        "company": "Amazon Web Services",
+        "title": "Senior Solutions Architect",
+        "years": "Nov 2020 - Present",
+        "description": "Lead strategic engagements with large enterprises, AWS Partners, and ISVs, serving as a trusted advisor on cloud modernization and AI adoption. Drive scalable architecture design, operational excellence, and long-term business transformation across global enterprise portfolios."
+      },
+      {
+        "company": "Zions Bancorporation",
+        "title": "Lead Architect / Engineering Manager",
+        "years": "Dec 2019 - Nov 2020",
+        "description": "Led enterprise modernization programs, transforming legacy banking systems into scalable, cloud-ready architectures while improving operational efficiency."
+      },
+      {
+        "company": "Discover Financial Services",
+        "title": "Senior Technical Consultant / Engineering Manager",
+        "years": "Oct 2017 - Dec 2019",
+        "description": "Modernized core banking and deposit platforms, reducing operational costs by 40% and increasing customer onboarding by 15%."
+      },
+      {
+        "company": "Denver Water",
+        "title": "Technical Program Manager / Project Lead",
+        "years": "Mar 2015 - Sep 2017",
+        "description": "Managed cross-functional teams of 25+ engineers to implement enterprise asset, payroll, and absence management systems."
+      },
+      {
+        "company": "Infosys Limited",
+        "title": "System Analyst / Technology Lead",
+        "years": "Jun 2008 - Feb 2015",
+        "description": "Delivered large-scale financial and government modernization projects across global markets, pioneering high-availability and secure core-banking systems."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Generative AI & LLMs",
+        "level": "95%"
+      },
+      {
+        "name": "Multi-Agent Architectures",
+        "level": "92%"
+      },
+      {
+        "name": "AWS",
+        "level": "98%"
+      },
+      {
+        "name": "Enterprise Architecture",
+        "level": "96%"
+      },
+      {
+        "name": "Solution Design",
+        "level": "95%"
+      },
+      {
+        "name": "Cloud Migration Strategies",
+        "level": "94%"
+      },
+      {
+        "name": "Microservices Architecture",
+        "level": "92%"
+      },
+      {
+        "name": "Kubernetes & Container Orchestration",
+        "level": "90%"
+      },
+      {
+        "name": "Data Lakes & Analytics",
+        "level": "92%"
+      },
+      {
+        "name": "MLOps & Production AI",
+        "level": "93%"
+      },
+      {
+        "name": "Cloud Security & Compliance",
+        "level": "90%"
+      },
+      {
+        "name": "Serverless Architecture",
+        "level": "91%"
+      },
+      {
+        "name": "DevOps & CI/CD",
+        "level": "91%"
+      },
+      {
+        "name": "Infrastructure as Code",
+        "level": "92%"
+      },
+      {
+        "name": "System Design & Scalability",
+        "level": "94%"
+      },
+      {
+        "name": "API Design & Integration",
+        "level": "93%"
+      },
+      {
+        "name": "Distributed Systems",
+        "level": "91%"
+      },
+      {
+        "name": "Event-Driven Architecture",
+        "level": "90%"
+      },
+      {
+        "name": "Database Architecture",
+        "level": "91%"
+      },
+      {
+        "name": "Observability & Monitoring",
+        "level": "90%"
+      },
+      {
+        "name": "High Availability & DR",
+        "level": "92%"
+      },
+      {
+        "name": "Cost Optimization",
+        "level": "94%"
+      },
+      {
+        "name": "Technical Leadership",
+        "level": "95%"
+      },
+      {
+        "name": "Strategic Advisory",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Generative AI Vision Platform",
+        "about": "Led development of a Generative AI vision platform processing 30M+ images monthly with room classification, condition scoring, and defect detection. Cut hallucinations by 50%, achieved 100% tool-use accuracy on 30K+ images, and reduced inference costs to <$10K/month, driving projected $1.7B annual seller savings.",
+        "image": "/placeholder.jpg",
+        "url": "",
+        "techStack": ["AWS Bedrock", "Amazon Nova", "Python", "AWS Lambda", "Amazon S3", "AWS Fargate"]
+      },
+      {
+        "title": "AI-Powered Press Release Generator",
+        "about": "Built an AI-powered press-release generator producing 100 localized variants across U.S. markets with a multi-agent Bedrock (Claude) architecture deployed on Amazon EKS. Designed 30 specialized agents delivering 99.1% fact-checking accuracy and processing 100 markets in 13 minutes.",
+        "image": "/placeholder.jpg",
+        "url": "",
+        "techStack": ["AWS Bedrock", "Claude", "Amazon EKS", "Kubernetes", "JavaScript", "Multi-Agent Systems"]
+      },
+      {
+        "title": "Agentic AI for Security",
+        "about": "Designed Generative and Agentic AI solutions for data-exfiltration prevention and egress control. Featured in AWS re:Inforce 2025 'Must-See Sessions' blog with 300+ attendees, 5/5 ratings, and later adopted in enterprise pilots.",
+        "image": "/placeholder.jpg",
+        "url": "",
+        "techStack": ["AWS Bedrock", "Claude", "Python", "AWS Security Hub", "Amazon Macie", "AWS Lambda"]
+      },
+      {
+        "title": "Enterprise Email Platform (Redfin)",
+        "about": "Led the architecture for Redfin's email communication platform using Amazon SES, enabling 20M+ daily emails with 99%+ deliverability. Featured in an official AWS Case Study highlighting scalable design and customer impact.",
+        "image": "/placeholder.jpg",
+        "url": "",
+        "techStack": ["Amazon SES", "AWS Lambda", "Amazon CloudWatch", "Amazon DynamoDB", "Python", "Event-Driven Architecture"]
+      },
+      {
+        "title": "6-Petabyte Enterprise Data Lake",
+        "about": "Architected and implemented a 6-petabyte enterprise data lake using AWS native services and Snowflake. The solution improved data accessibility and governance, generating $12M in annual recurring revenue and accelerating insight delivery across business units.",
+        "image": "/placeholder.jpg",
+        "url": "",
+        "techStack": ["Amazon S3", "AWS Glue", "Snowflake", "Amazon Athena", "AWS Lake Formation", "Python"]
+      },
+      {
+        "title": "AWS Activation Days Framework",
+        "about": "Created and scaled AWS 'Activation Days' for Web Application Firewall (WAF) and Network Firewall Protection. Localized into 3 languages, executed globally across EMEA, LATAM, APAC. 195 events, 2K+ attendees, $7.5M+ influenced revenue, 4.6/5 satisfaction. The model evolved into a repeatable go-to-market framework now leveraged by multiple AWS teams worldwide.",
+        "image": "/placeholder.jpg",
+        "url": "",
+        "techStack": ["AWS WAF", "AWS Network Firewall", "AWS CloudFormation", "Infrastructure as Code", "AWS Shield", "Amazon CloudFront"]
+      }
+    ]
+  },
+  "publications": {
+    "publications": [
+      {
+        "title": "Using AWS AppSync and AWS Lake Formation to Access a Secure Data Lake through a GraphQL API",
+        "type": "AWS Blog",
+        "category": "AWS Big Data Blog",
+        "url": "https://aws.amazon.com/blogs/big-data/using-aws-appsync-and-aws-lake-formation-to-access-a-secure-data-lake-through-a-graphql-api/",
+        "year": ""
+      },
+      {
+        "title": "Use Region Pinning to Set a Home Region for Items in an Amazon DynamoDB Global Table",
+        "type": "AWS Blog",
+        "category": "AWS Database Blog",
+        "url": "https://aws.amazon.com/blogs/database/use-region-pinning-to-set-a-home-region-for-items-in-an-amazon-dynamodb-global-table/",
+        "year": ""
+      },
+      {
+        "title": "Prevent IOPS Over-Provisioning by Monitoring Striped Amazon EBS Volumes within EC2 Instance Limits",
+        "type": "AWS Blog",
+        "category": "AWS Storage Blog",
+        "url": "https://aws.amazon.com/blogs/storage/prevent-iops-over-provisioning-by-monitoring-striped-amazon-ebs-volumes-within-ec2-instance-limits/",
+        "year": ""
+      },
+      {
+        "title": "Sample Press Release Generator with GenAI Agents",
+        "type": "AWS Code Sample",
+        "category": "GitHub Repository",
+        "url": "https://github.com/aws-samples/sample-press-release-generator-with-genai-agents",
+        "year": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ranjith's strategic vision and technical expertise have been instrumental in our cloud transformation journey. His ability to translate complex technical concepts into business value is exceptional.",
+        "user": "Enterprise Customer, AWS"
+      },
+      {
+        "text": "Working with Ranjith on our AI adoption strategy was transformative. His deep knowledge of Generative AI and practical approach to implementation accelerated our time to value significantly.",
+        "user": "Technology Leader, Fortune 500 Company"
+      }
+    ]
+  }
+}
