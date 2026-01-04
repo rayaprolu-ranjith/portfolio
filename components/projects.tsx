@@ -46,14 +46,6 @@ export default function Projects({ data }: ProjectsProps) {
                   </div>
                 )}
                 <div className="text-accent text-xs md:text-sm mb-2">╚═════════════════════════════════╝</div>
-                <a
-                  href={project.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block font-mono text-xs text-accent hover:text-foreground transition-colors border border-border px-3 py-1 mt-2 hover:bg-accent/10"
-                >
-                  [view project →]
-                </a>
               </div>
             </div>
           ))}
