@@ -103,7 +103,7 @@ Replace `public/resume.pdf` with your own PDF resume.
 
 ### Update Photo
 
-Replace `public/ranrayap-high-res-current-small-size.png` with your photo (recommended: 320x480px).
+Replace your photo in `public/ranrayap-high-res-current-small-size.png`. (recommended: 320x480px).
 
 ### Modify Colors
 
